@@ -1,6 +1,6 @@
 # Ciao a tutti! 👋
 
-Hello folks! I am samuele Ruffino, and I have started my engineer journey in back 2018. I have graduated in **Politecnico di Torino** in **Electronics and Communication Engineering (ECE)** with 108/110.
+Hello folks! I am samuele Ruffino, and I have started my engineer journey in back 2018. I have graduated in **Politecnico di Torino** in **Electronics and Communication Engineering (ECE)** with 0/110.
 I am currently having my MSc in **Electrical Engineering and Information Technology** at **ETH Zurich**, with a particular focus on Computer Vision, Robotics and Machine Learning/Deep Learning.  
 No more "engineering" word, promise!
 
