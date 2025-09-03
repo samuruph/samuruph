@@ -10,7 +10,9 @@ Here's a bit about my academic and professional journey:
 
 - 🚗 I had the opportunity to have an internship at BMW Group, where I worked on 6D pose estimation and synthetic data generation.
 
-- 🎓 Currently, I am working on my master thesis at CVL, focusing on human motion estimation for object tracking.
+- 🎓 I developed my Master Thesis at Siemens (Leuven, Belgium), where I focus on VLM and Diffusion models for Autonomous Driving applications.
+
+- 🚗 Currently, I am a PhD Reseracher at Torc Robotics, working on Generative models for Autonomous Diriving.
 
 ## 🔧 Tools and Skills I had to use in the last years
 
