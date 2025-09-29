@@ -1,33 +1,26 @@
 # Ciao a tutti! 👋
 
-Hello folks! I am samuele Ruffino, and I have started my engineer journey in back 2018. I have graduated in **Politecnico di Torino** in **Electronics and Communication Engineering (ECE)** with 0/110.
-I am currently having my MSc in **Electrical Engineering and Information Technology** at **ETH Zurich**, with a particular focus on Computer Vision, Robotics and Machine Learning/Deep Learning.  
-No more "engineering" word, promise!
+Hello folks! I am samuele Ruffino. 
 
-Here's a bit about my academic and professional journey:
+* 👀 I am curious about Computer Vision, Robotics, Autonomous Driving and Machine Learning in general (why not!).
+* 🎓 I have a MSc in Electrical Engineering and Information Technology at **ETH Zurich**, and a BSc Electronics and Communication Engineering (ECE) at **Politecnico di Torino**.
+* 🚗 Currently, I am a PhD Reseracher at Torc Robotics, working on Generative models for Autonomous Diriving.
+* 📫 You can reach out here: samuele dor ruffino at gmail dot com
 
-- 🔬 I did my semester thesis between IBM Research and IIS ETHZ Lab in Symbolic AI, focusing on Neuro Vector Symbolic Architecture. 
+## 🔧 Tools and Skills I used in the last years
 
-- 🚗 I had the opportunity to have an internship at BMW Group, where I worked on 6D pose estimation and synthetic data generation.
-
-- 🎓 I developed my Master Thesis at Siemens (Leuven, Belgium), where I focus on VLM and Diffusion models for Autonomous Driving applications.
-
-- 🚗 Currently, I am a PhD Reseracher at Torc Robotics, working on Generative models for Autonomous Diriving.
-
-## 🔧 Tools and Skills I had to use in the last years
-
-- Python
-- Pytorch
-- Tensorflow (light or not)
-- Numpy
-- Pandas
-- OpenCV
-- Scikit Learn
-- Tensorboard
+* Python
+* Pytorch
+* Tensorflow (light or not)
+* Numpy
+* Pandas
+* OpenCV
+* Scikit Learn
+* Tensorboard
 
 ## 🍻 Interests
 
-Apart from my technical pursuits, I have a keen interest in Arts (G. De Chirico is the best, change my mind), Sport, Cinema and Cooking.
+Apart from my technical pursuits, I have a keen interest in Arts (G. De Chirico is the best, change my mind), Sport (would like to do an half marathon in Tromsø the 4th of January, join me!), Cinema and Cooking.
 
 ## 📫 Connect with Me
 
@@ -68,7 +61,7 @@ Happy coding! 🚀
 <!-- update these accordingly -->
 
 [1]: https://twitter.com/ruffino_samuele
-[6]: http://www.github.com/samueleruffino99
+[6]: http://www.github.com/samuruph
 [7]: https://www.linkedin.com/in/samuele-ruffino
 [8]: https://www.instagram.com/samueleruffino_
 
