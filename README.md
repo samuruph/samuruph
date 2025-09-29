@@ -1,6 +1,7 @@
 # Ciao a tutti! 👋
 
-Hello folks! I am samuele Ruffino. 
+Hello folks! 
+I am samuele Ruffino. 
 
 * 👀 I am curious about Computer Vision, Robotics, Autonomous Driving and Machine Learning in general (why not!).
 * 🎓 I have a MSc in Electrical Engineering and Information Technology at **ETH Zurich**, and a BSc Electronics and Communication Engineering (ECE) at **Politecnico di Torino**.
